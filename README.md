@@ -1,0 +1,2 @@
+# Beregnere
+Pythagoras, Tangens, osv.
