@@ -1,5 +1,5 @@
 # Beregnere
-- Pythagoras (v1.0)
+- Pythagoras (v1.1)
 - Tangens (v1.1)
 
 # Download information
