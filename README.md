@@ -1,6 +1,6 @@
 # Beregnere
 - Pythagoras (v1.1)
-- Tangens (v1.1)
+- Tangens (v2.0)
 
 # Download information
 Du skal bruge Microsoft .NET SDK x64 (https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.400-windows-x64-installer)  
